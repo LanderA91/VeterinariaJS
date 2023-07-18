@@ -1,0 +1,11 @@
+{
+  "name": "veterinaria",
+  "version": "1.0.0",
+  "description": "proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LanderA91",
+  "license": "ISC"
+}
